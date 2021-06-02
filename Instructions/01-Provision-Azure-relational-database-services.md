@@ -1,6 +1,7 @@
 ---
 lab:
-    title: 'Provisionar serviços de banco de dados relacional do Azure'
+    title: 'Volta 1: Provisionar serviços de banco de dados relacional do Azure'
+    module: 'Módulo 2: Explorar dados relacionais no Azure'
 ---
 
 ## Instruções
@@ -8,4 +9,4 @@ Como parte de sua função na Contoso de engenheiro de dados, você recebeu uma 
 
 Neste laboratório, você cria e configura um dos seguintes servidores do Azure: SQL Server, PostgreSQL ou MySQL.
 
-1.	Acesse o exercício do Microsoft Learn em https://docs.microsoft.com/learn/modules/explore-provision-deploy-relational-database-offerings-azure/7-exercise-provision-relational-azure-data-services?pivots=azuresql e conclua a unidade no navegador: 
+1.	Acesse o exercício do Microsoft Learn em https://aka.ms/dp900lab01-ptb e conclua a unidade no navegador: 

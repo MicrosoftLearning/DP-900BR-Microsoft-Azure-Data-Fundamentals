@@ -1,5 +1,7 @@
-Lab:
-    title: 'Carregar, baixar e consultar dados em um armazenamento de dados não relacional'
+---
+lab:
+    title: 'Volta 4: Carregar, baixar e consultar dados em um armazenamento de dados não relacional'
+    module: 'Módulo 3: Explorar dados não relacionais no Azure'
 ---
 
 ## Instruções
@@ -12,4 +14,4 @@ Neste exercício, você vai carregar dados nesses armazenamentos de dados. Você
 
 Para executar o exercício, use o portal do Azure e a linha de comando.
 
-1.	Acesse o exercício do Microsoft Learn em https://docs.microsoft.com/learn/modules/explore-non-relational-data-stores-azure/6-exercise e conclua a unidade no navegador: 
+1.	Acesse o exercício do Microsoft Learn em https://aka.ms/dp900lab04-ptb e conclua a unidade no navegador: 

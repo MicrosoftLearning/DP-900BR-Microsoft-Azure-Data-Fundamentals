@@ -1,15 +1,15 @@
-# DP-900 trainer lab mapping
+# Mapas de laboratórios de treinamento DP-900
 
-This course, DP-900: Microsoft Azure Data Fundamentals, has a set of labs designated for instructor-led training. 
+Este curso, DP-900: Os princípios básicos de dados do Microsoft Azure têm um conjunto de laboratórios projetado para treinamento conduzido por instrutor. 
 
-> Note: Instructors may choose ask students to complete one or more labs on their own time by using the exercises in the associated Learn learning paths (https://docs.microsoft.com/users/23110622/collections/0kjyh8rn5gdrjj). 
+> Observação: Os instrutores podem optar por pedir aos alunos que concluam um ou mais laboratórios em seu próprio tempo usando os exercícios nos respectivos roteiros de aprendizagem Learn (https://docs.microsoft.com/users/23110622/collections/0kjyh8rn5gdrjj). 
 
-## DP-900 module mapping to labs
+## Mapa do módulo DP-900 para laboratórios
 
-| DP-900 Trainer Lab | Topic | Markdown File |
+| Laboratório de treinamento DP-900 | Tópico | Arquivo Markdown |
 | --- | --- | --- |
-| 01: DP-900 Module 02 | Provision Azure relational database services | [01-Provision-Azure-relational-database-services.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/01-Provision-Azure-relational-database-services.md) |
-| 02: DP-900 Module 02 | Use SQL to query Azure SQL Database learning in Azure Machine Learning | [https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/02-Use-SQL-to-query-Azure-SQL-Database.md) |
-| 03: DP-900 Module 03 | Provision non-relational Azure data services  | [03-Provision-non-relational-Azure-data-services.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/03-Provision-non-relational-Azure-data-services.md) |
-| 04: DP-900 Module 03 | Upload, download, and query data in a non-relational data store | [04-Upload-download-and-query-data-in-a-non-relational-data-store.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/04-Upload-download-and-query-data-in-a-non-relational-data-store.md) |
+| 01: DP-900 Módulo 02 | Provisionar serviços de banco de dados relacional do Azure | [01-Provision-Azure-relational-database-services.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/01-Provision-Azure-relational-database-services.md) |
+| 02: DP-900 Módulo 02 | Use o SQL para consultar o aprendizado do Banco de Dados SQL do Azure no Azure Machine Learning | [https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/02-Use-SQL-to-query-Azure-SQL-Database.md) |
+| 03: DP-900 Módulo 03 | provisionar serviços de dados não relacionais do Azure  | [03-Provision-non-relational-Azure-data-services.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/03-Provision-non-relational-Azure-data-services.md) |
+| 04: DP-900 Módulo 03 | Carregar, baixar e consultar dados em um armazenamento de dados não relacional | [04-Upload-download-and-query-data-in-a-non-relational-data-store.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/04-Upload-download-and-query-data-in-a-non-relational-data-store.md) |
 
