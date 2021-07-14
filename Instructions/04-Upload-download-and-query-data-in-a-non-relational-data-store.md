@@ -1,7 +1,7 @@
----
+﻿---
 lab:
-    title: 'Volta 4: Carregar, baixar e consultar dados em um armazenamento de dados não relacional'
-    module: 'Módulo 3: Explorar dados não relacionais no Azure'
+    title: 'Laboratório 04: Carregar, baixar e consultar dados em um armazenamento de dados não relacional'
+    module: 'Módulo 03: Explorar dados não relacionais no Azure'
 ---
 
 ## Instruções

@@ -1,7 +1,7 @@
----
+﻿---
 lab:
-    title: 'Volta 2: Usar o SQL para consultar o Banco de Dados SQL do Azure'
-    module: 'Módulo 2: Explorar dados relacionais no Azure'
+    title: 'Laboratório 02: use o SQL para consultar o Banco de Dados SQL do Azure'
+    module: 'Módulo 02: explore dados relacionais no Azure'
 ---
 
 ## Instruções

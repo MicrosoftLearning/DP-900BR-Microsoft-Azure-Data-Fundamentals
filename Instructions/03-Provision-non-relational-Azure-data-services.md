@@ -1,7 +1,7 @@
----
+﻿---
 lab:
-    title: 'Volta 3: Provisionar serviços de dados não relacionais do Azure'
-    module: 'Módulo 3: Explorar dados não relacionais no Azure'
+    title: 'Laboratório 03: Provisionar Serviços de Dados não relacionais do Azure'
+    module: 'Módulo 03: Explorar dados não relacionais no Azure'
 ---
 
 ## Instruções
