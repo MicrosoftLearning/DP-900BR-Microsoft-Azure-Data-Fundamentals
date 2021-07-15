@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratório 03: Provisionar Serviços de Dados não relacionais do Azure'
     module: 'Módulo 03: Explorar dados não relacionais no Azure'
