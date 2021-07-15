@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratório 04: Carregar, baixar e consultar dados em um armazenamento de dados não relacional'
     module: 'Módulo 03: Explorar dados não relacionais no Azure'
