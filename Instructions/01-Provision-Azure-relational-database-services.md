@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratório 01: provisione serviços de banco de dados relacional do Azure'
     module: 'Módulo 02: explore dados relacionais no Azure'
