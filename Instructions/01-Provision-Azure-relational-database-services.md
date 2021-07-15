@@ -1,7 +1,7 @@
 ---
 lab:
-    title: 'Volta 1: Provisionar serviços de banco de dados relacional do Azure'
-    module: 'Módulo 2: Explorar dados relacionais no Azure'
+    title: 'Laboratório 01: provisione serviços de banco de dados relacional do Azure'
+    module: 'Módulo 02: explore dados relacionais no Azure'
 ---
 
 ## Instruções
